@@ -1,0 +1,8 @@
+
+superlists/db.sqlite3
+
+superlists/superlists/__pycache__/__init__.cpython-34.pyc
+
+superlists/superlists/__pycache__/settings.cpython-34.pyc
+
+*.pyc
